@@ -1,2 +1,3 @@
 Russel Mendes: 4/18/2018: Welcome to the IEEE Intro To Github Seminar. Please write your name, date, and an interesting quip
 John Smith: 4/18/2018: Yes I am a real person. I am not a bot
+Billy
